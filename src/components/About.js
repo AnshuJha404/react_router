@@ -1,4 +1,4 @@
-{/*const About =()=>{
+const About =()=>{
     return(
         <div>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget ex ut dui tempus faucibus. Phasellus lorem orci, dapibus eget mauris in, elementum scelerisque est. Vivamus sed metus nec libero elementum feugiat a in enim. Duis eget erat euismod, semper nunc vel, tempus dui. Cras facilisis et velit non imperdiet. Sed vulputate dapibus nisl et sodales. Etiam a consectetur risus. Pellentesque interdum urna quis consectetur consequat. Nunc congue tempor neque, eu posuere est rutrum ut. Phasellus enim lacus, luctus nec leo eget, venenatis faucibus mauris. Proin a convallis orci. Sed tincidunt scelerisque ullamcorper. Quisque dictum tortor ac lacus finibus aliquam. Sed diam mi, imperdiet id ultricies et, egestas nec urna.
@@ -45,4 +45,3 @@ Aenean vehicula augue ut dolor convallis, ac ultricies turpis sagittis. Praesent
 }
 
 export default About ;
-*/}
